@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 <h1 align="center">Hi 👋, I'm Jyoti Ranjan Pahi</h1>
-<h3 align="center">"Turning Ideas into Code | A 3rd year CS UnderGrad at silicon university"</h3>
-<img align="right" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<h3 align="center">"Turning Ideas into Code | A final year CS UnderGrad at @silicon_university"</h3>
+<div><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"></div>
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Website Building<br>🌱 I’m currently learning Machine Learning and  Generative AI<br>💬 Ask me about something I know <br>⚡ Fun fact Chill But ..... You should have the Skillll 
 
